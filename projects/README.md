@@ -1,101 +1,33 @@
 # Milestone 1 
-## HTML / CSS Basics - Responsive Design
-### Suggested Materials: 
-- https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/
+## React Basics and Hooks
+### Suggested Materials:
+
+- https://beta.reactjs.org/learn/describing-the-ui
+- https://beta.reactjs.org/learn/adding-interactivity
 
 ### Projects
 
-|Project Name|Repository|Estimated Time|
+|Project Name|Link|Estimated Time|
 --------|-------|------|
-| Hotel Booking Landing Page | [Repository](https://github.com/tomorrowdevs-projects/hotel-booking-landing-page) | 20 Hours |
-| Responsive Landing Page | [Repository](https://github.com/tomorrowdevs-projects/responsive-landing-page) | 20 Hours |
+| Your first component | [Site](https://beta.reactjs.org/learn/your-first-component#challenges) | 1 Hour |
+| Importing and Exporting Components | [Site](https://beta.reactjs.org/learn/importing-and-exporting-components#challenges) | 1 Hour |
+| Writing Markup with JSX | [Site](https://beta.reactjs.org/learn/writing-markup-with-jsx#challenges) | 1 Hour |
+| JavaScript in JSX with Curly Braces| [Site](https://beta.reactjs.org/learn/javascript-in-jsx-with-curly-braces#challenges) | 1 Hour |
+| Passing Props to a Component| [Site](https://beta.reactjs.org/learn/passing-props-to-a-component#challenges) | 1 Hour |
+| Conditional Rendering| [Site](https://beta.reactjs.org/learn/conditional-rendering#challenges) | 1 Hour |
+| Rendering Lists| [Site](https://beta.reactjs.org/learn/rendering-lists#challenges) | 1 Hour |
+| Keeping Components Pure| [Site](https://beta.reactjs.org/learn/keeping-components-pure#challenges) | 1 Hour |
+| Responding to Events| [Site](https://beta.reactjs.org/learn/responding-to-events#challenges) | 1 Hour |
+| State: A Component's Memory| [Site](https://beta.reactjs.org/learn/state-a-components-memory#challenges) | 1 Hour |
+| State as a Snapshot| [Site](https://beta.reactjs.org/learn/state-as-a-snapshot#challenges) | 1 Hour |
+| Queueing a Series of State Updates| [Site](https://beta.reactjs.org/learn/queueing-a-series-of-state-updates#challenges) | 1 Hour |
+| Updating Objects in State| [Site](https://beta.reactjs.org/learn/updating-objects-in-state#challenges) | 1 Hour |
+| Updating Arrays in State| [Site](https://beta.reactjs.org/learn/updating-arrays-in-state#challenges) | 1 Hour |
+| User Onboarding | [Repository](https://github.com/tomorrowdevs-projects/user-onboarding) | 40 Hours |
+
 
 # Milestone 2
-## Javascript Basics + Tests
-### Suggested Materials: 
-- https://www.w3schools.com/js/default.asp from Introduction until JS Break
-- https://www.freecodecamp.org/news/how-to-start-unit-testing-javascript/
 
-## Projects
+## Managing State
 
-|Project Name|Repository|Estimated Time|
---------|-------|------|
-| Poker Game | [Repository](https://github.com/tomorrowdevs-projects/poker-game) | 20 Hours |
-| Hangman Game | [Repository](https://github.com/tomorrowdevs-projects/hangman-game) | 10 Hours |
-
-# Milestone 3
-
-## DOM Manipulation + WebPack + Sass
-
-### Suggested Materials
-
-- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
-- https://webpack.js.org/guides/getting-started/
-
-### Projects 
-
-|Project Name|Repository|Estimated Time|
---------|-------|------|
-| Consultant Landing Page | [Repository](https://trello.com/c/AhgfKmgA) | 20 Hours |
-| Mobile App UI | [Repository](https://github.com/tomorrowdevs-projects/mobile-app-ui) | 20 Hours |
-
-# Milestone 4
-
-## Functional Programming
-
-### Suggested Materials 
-
-- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/
-
-### Projects
-
-|Project Name|Repository|Estimated Time|
---------|-------|------|
-| Memory Game | [Repository](https://github.com/tomorrowdevs-projects/memory-game) | 20 Hours |
-| Load Visible Images | [Repository](https://github.com/tomorrowdevs-projects/load-visible-images) | 20 Hours |
-
-# Milestone 5
-
-## Promises - async / await
-
-### Suggested Materials 
-
-- https://www.freecodecamp.org/news/learn-promise-async-await-in-20-minutes/
-
-### Projects
-
-|Project Name|Repository|Estimated Time|
---------|-------|------|
-| Twitter Feed | [Repository](https://github.com/tomorrowdevs-projects/twitter-feed) | 20 Hours |
-| Weather Web App | [Repository](https://github.com/tomorrowdevs-projects/weather-web-app) | 20 Hours |
-
-# Milestone 6 
-
-## Object Oriented Programming
-
-### Suggested Materials
-
-- http://freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/
-- https://javascript.info/class
-
-### Projects
-
-|Project Name|Repository|Estimated Time|
---------|-------|------|
-| Greeter Kata | [Repository](https://github.com/tomorrowdevs-projects/greeter-kata) | 10 Hours |
-| Bowling Game | [Repository](https://github.com/tomorrowdevs-projects/bowling-game) | 20 Hours |
-| Fiscal Code Generator | [Repository](https://github.com/tomorrowdevs-projects/fiscal-code-generator) | 20 Hours |
-
-# Milestone 7
-
-## ES6
-### Suggested Materials
-
-- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/
-
-### Projects
-
-|Project Name|Repository|Estimated Time|
---------|-------|------|
-| Food Delivery Telegram Bot | [Repository](https://github.com/tomorrowdevs-projects/food-delivery-bot) | 30 Hours |
-| Italian Cities Details | [Repository](https://github.com/tomorrowdevs-projects/italian-cities-details) | 20 Hours |
+### Suggested Materials:
