@@ -2,6 +2,7 @@
 ## React Basics and Hooks
 ### Suggested Materials:
 
+- https://reactkungfu.com/2015/10/the-difference-between-virtual-dom-and-dom/
 - https://beta.reactjs.org/learn/describing-the-ui
 - https://beta.reactjs.org/learn/adding-interactivity
 
